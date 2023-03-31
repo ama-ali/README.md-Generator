@@ -22,6 +22,7 @@
     ## Usage
   
     Once you have completed previous step (npm install) run the application in terminal with - node index.js
+    [![Alternate Text]({image-url})]({https://drive.google.com/file/d/1V7mvR_zRWYr3qLEbHVUGgwwG7F5YZ33E/view} "Link Title")
   
     ## Contributing
   
@@ -41,4 +42,5 @@
   
     - GitHub: [ama-ali](https://github.com/ama-ali)
     - Email: ama-ali@hotmail.co.uk
-    
+    https://github.com/ama-ali/README.md-Generator/issues/1#issue-1648806998
+    ![image](https://user-images.githubusercontent.com/59323783/229057079-4ae6d6e4-2b72-4d66-a2fa-60e6c9c54fc6.jpeg)
